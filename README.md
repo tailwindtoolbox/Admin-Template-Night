@@ -1,11 +1,11 @@
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Admin Dashboard Template - Night](https://www.tailwindtoolbox.com/templates/admin-template-night)
 
-[Admin Dashboard Template - Day](https://www.tailwindtoolbox.com/templates/admin-template-night) is an open source, "dark mode" admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+[Admin Dashboard Template - Night](https://www.tailwindtoolbox.com/templates/admin-template-night) is an open source, "dark mode" admin dashboard template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Admin Template](https://www.tailwindtoolbox.com/templates/admin-template-night.png)
 
-To dark for you? Check out the [Day Mode](https://www.tailwindtoolbox.com/templates/admin-template-night) version:
-![Admin Template](https://www.tailwindtoolbox.com/templates/admin-template-night.png)
+To dark for you? Check out the [Day Mode](https://www.tailwindtoolbox.com/templates/admin-template-day) version:
+![Admin Template](https://www.tailwindtoolbox.com/templates/admin-template-day.png)
 
 ## Getting Started
 
